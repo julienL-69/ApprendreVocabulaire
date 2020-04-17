@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApprendreVocabulaire</string>
+    <string name="mot1_jap">romaji</string>
+    <string name="mot1_fr">Selectionner une liste en appuyant sur "Changement liste vocabulaire" puis sur mot suivant</string>
+    <string name="unpzegfsdvs">unpzegfsdvs</string>
+    <string name="ListeEncours">la liste en cours</string>
+</resources>
